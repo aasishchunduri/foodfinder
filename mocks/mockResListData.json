@@ -1,0 +1,3991 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "409721",
+              "name": "Teapical",
+              "city": "Hyderabad",
+              "slugs": {
+                "restaurant": "teapical-kondapur-kondapur",
+                "city": "hyderabad"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "7400223fbb844b562018fc36a3cb947f",
+              "locality": "Maseed Banda",
+              "areaName": "Kondapur",
+              "costForTwo": "20000",
+              "costForTwoMessage": "₹200 for two",
+              "cuisines": ["Chinese", "Fast Food"],
+              "avgRating": 3.9,
+              "feeDetails": {
+                "restaurantId": "409721",
+                "fees": [
+                  {
+                    "name": "distance",
+                    "fee": 3600
+                  },
+                  {
+                    "name": "time"
+                  },
+                  {
+                    "name": "special"
+                  }
+                ],
+                "totalFee": 3600,
+                "icon": "v1648635511/Delivery_fee_new_cjxumu",
+                "message": "3.9 kms | ₹36 Delivery fee will apply"
+              },
+              "parentId": "256957",
+              "avgRatingString": "3.9",
+              "totalRatingsString": "1K+ ratings",
+              "sla": {
+                "restaurantId": "409721",
+                "deliveryTime": 25,
+                "minDeliveryTime": 25,
+                "maxDeliveryTime": 25,
+                "lastMileTravel": 3.9,
+                "serviceability": "SERVICEABLE",
+                "stressFactor": 1,
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "zoneId": 23,
+                "slaString": "25 MINS",
+                "lastMileTravelString": "3.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2023-12-21 23:45:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {}
+              },
+              "aggregatedDiscountInfo": {
+                "header": "20% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "20% off | Use TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "10% off | Use PARTY",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "20% off up to ₹50 | Use code TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "10% off | Use code PARTY",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {},
+              "slugString": "teapical-kondapur-kondapur",
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "Shop no-1-59/14/A,Ground Floor,Maseed Banda,Kondapur,Serilingampally Manda,, Kondapur, Sangareddy, Telangana-500084"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Chinese,Fast Food"
+                }
+              ],
+              "totalRatings": 1000,
+              "aggregatedDiscountInfoV2": {
+                "header": "20% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "20% off | Use TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "10% off | Use PARTY",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "20% off up to ₹50 | Use code TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "10% off | Use code PARTY",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "nudgeBanners": [
+                {
+                  "minValue": 350,
+                  "maxValue": 500,
+                  "priority": 2,
+                  "couponCode": "PARTY",
+                  "discountInfo": {
+                    "discountType": "Percentage",
+                    "value": 10
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to unlock flat 10% off | Code PARTY",
+                  "unlockedMessage": "PARTY Coupon Unlocked! Use it to save flat 10% off",
+                  "logoCtx": {}
+                }
+              ],
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/409721"
+              },
+              "expectationNotifiers": [
+                {
+                  "text": "3.9 kms | ₹36 Delivery fee will apply",
+                  "icon": {
+                    "imageId": "v1648635511/Delivery_fee_new_cjxumu"
+                  },
+                  "popup": {
+                    "cta": {}
+                  },
+                  "type": "DISTANCE_FEE_NON_FOOD_LM",
+                  "enrichedText": "<b>3.9 kms</b> | ₹36 Delivery fee will apply",
+                  "halfCardPopup": {
+                    "halfCardPopupHeader": {}
+                  }
+                }
+              ],
+              "ratingSlab": "RATING_SLAB_4",
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+              },
+              "hasBestsellerItems": true,
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {},
+                "presentation": {}
+              },
+              "latLong": "17.46471339,78.34160618"
+            },
+            "analytics": {}
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+            "sectionId": "POP_UP_CROUTON_MENU"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 5,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "bottom": 16
+                }
+              },
+              "scrollBar": {}
+            },
+            "id": "offerCollectionWidget_UX4",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "20% OFF UPTO ₹50",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["1d94c43a-9171-4580-8858-0714abf945ac"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE TRYNEW",
+                      "description": "ABOVE ₹179",
+                      "offerType": "offers",
+                      "restId": "409721",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT 10% OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["ed38164b-ac57-4130-8994-4860a010a6d8"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE PARTY",
+                      "description": "ABOVE ₹500",
+                      "offerType": "offers",
+                      "restId": "409721",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹100 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["06ef99ee-2003-4dd6-940e-8f9e1217871e"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE FLATDEAL",
+                      "description": "ABOVE ₹599",
+                      "offerType": "offers",
+                      "restId": "409721",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "20% OFF UPTO ₹125",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "rng/md/ads/production/4abdba6754dfedb04324150e316a4004",
+                      "offerIds": ["61691199-4aad-46d4-a8ca-a2c7c80dbef9"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE KOTAK125",
+                      "description": "ABOVE ₹500",
+                      "offerType": "offers",
+                      "restId": "409721",
+                      "offerLogo": "rng/md/ads/production/4abdba6754dfedb04324150e316a4004",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹50 OFF",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "rng/md/ads/production/7f31c9e47ddd7e6a3c16d21553c0ca60",
+                      "offerIds": ["3ad2e064-67c5-4780-af87-8fa658ce24a1"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE SIMPL50",
+                      "description": "ABOVE ₹300",
+                      "offerType": "offers",
+                      "restId": "409721",
+                      "offerLogo": "rng/md/ads/production/7f31c9e47ddd7e6a3c16d21553c0ca60",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "badges": {},
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {},
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "101182796",
+                              "name": "Chilli Chicken Roll",
+                              "category": "Chef's Special Roll",
+                              "description": "Chicken cubes cooked with chillies in chinese sauce & dressed with onions, showered with mayonnaise, rolled in handmade classic laccha paratha",
+                              "imageId": "ff3d961d64867c7348523b2be32d0158",
+                              "inStock": 1,
+                              "price": 22900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "1.4",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "101182795",
+                              "name": "Chilli Paneer Roll",
+                              "category": "Chef's Special Roll",
+                              "description": "Tender paneer cubes cooked with chillies in chinese sauce & dressed with onions, showered with mayonnaise, rolled in handmade classic laccha paratha",
+                              "imageId": "ff3d961d64867c7348523b2be32d0158",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 22900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121409634",
+                              "name": "Schezwan Egg Fried Rice",
+                              "category": "Chinese [ Noodles & Fried Rice",
+                              "imageId": "3f2259660b7b56ad91d8369beb7ee610",
+                              "inStock": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "EGG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Best Of Korean",
+                      "categories": [
+                        {
+                          "title": "Korean Maggi",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "125660696",
+                                  "name": "Korean Egg Maggi",
+                                  "category": "Best Of Korean",
+                                  "inStock": 1,
+                                  "price": 15900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "EGG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "125660698",
+                                  "name": "Korean Chicken Maggi",
+                                  "category": "Best Of Korean",
+                                  "inStock": 1,
+                                  "price": 16900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.4",
+                                      "ratingCount": "8 ratings",
+                                      "ratingCountV2": "8"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Korean Momos",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "125831696",
+                                  "name": "Korean Veg Momos",
+                                  "category": "Best Of Korean",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 17900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "125831697",
+                                  "name": "Korean Paneer Momos",
+                                  "category": "Best Of Korean",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 19900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "125831698",
+                                  "name": "Korean Chicken Momos",
+                                  "category": "Best Of Korean",
+                                  "inStock": 1,
+                                  "price": 21900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Tea",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410713",
+                              "name": "Kadak Tea ( Serves 4)",
+                              "category": "Tea",
+                              "description": "The freshest tea leaves are sourced from the finest estates and brewed with fresh milk  and handmade spices to give you our most classic chai experience.",
+                              "imageId": "d5ed3031a27281d0184635056d067ef0",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "63 ratings",
+                                  "ratingCountV2": "63"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410715",
+                              "name": "Masala Tea( Serves 4)",
+                              "category": "Tea",
+                              "description": "A handpicked blend of spices cardamom, pepper, clove, ginger and cinnamon are added to your refreshing cup of chai. Made with fresh milk.",
+                              "imageId": "f2b29cf202adbfdced9039b71a3f7e26",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.1",
+                                  "ratingCount": "11 ratings",
+                                  "ratingCountV2": "11"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410717",
+                              "name": "Ginger Tea ( Serves 4)",
+                              "category": "Tea",
+                              "description": "Ginger helps ease the cold or flu while also curing nausea and related stomach problems. Fresh hand crushed ginger is added to your chai and brewed to perfection. Made with fresh milk and the best tea leaves from darjeeling.",
+                              "imageId": "b29be5de3d660ac96034d5a299135b4e",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "90 ratings",
+                                  "ratingCountV2": "90"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410719",
+                              "name": "Elaichi Tea ( Serves 4)",
+                              "category": "Tea",
+                              "description": "Cardamoms are added to your chai and brewed to perfection. Feel the warmth of real cardamoms in our earthy elaichi chai.",
+                              "imageId": "bf9ab64c4071a4c4e92889e9bd73dd64",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15700,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "13 ratings",
+                                  "ratingCountV2": "13"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410721",
+                              "name": "Lemon Tea",
+                              "category": "Tea",
+                              "description": "Freshly squeezed lemon is added to your chai and brewed to perfection. Made with fresh tea leaves sourced from the best gardens.",
+                              "imageId": "56747fb48a8a0343a5bd4b3869ca2c2c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121585275",
+                              "name": "Golden Milk",
+                              "category": "Tea",
+                              "imageId": "7f8067bbdf270109ce401ba37cd6b5df",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Coffee",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121585274",
+                              "name": "Black Coffee (serves 4)",
+                              "category": "Coffee",
+                              "imageId": "17bee9c3acf1e58bface68904a8a0611",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "97580984",
+                              "name": "Coffee (serves 4)",
+                              "category": "Coffee",
+                              "imageId": "fa64cd28d2a20dd4ccde05270326f24b",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "17 ratings",
+                                  "ratingCountV2": "17"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Breakfast Special",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "120308276",
+                              "name": "Poha With Sev",
+                              "category": "Breakfast Special",
+                              "description": "Simple, soulful poha with onions and potatoes, topped with peanut. [flattened rice flakes, peanut masala, onion, ]  allergen information- contains peanuts.",
+                              "imageId": "484f4cdf210a88f125858ec5ee718b4f",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.5",
+                                  "ratingCount": "30 ratings",
+                                  "ratingCountV2": "30"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "102240301",
+                              "name": "Sabudana Khichdi",
+                              "category": "Breakfast Special",
+                              "description": "Made in sendha namak (no onion, no garlic) an exciting  vrat special to make your day. Sabudana khichdi",
+                              "imageId": "e8a8ac8f8048db2437c3714634a31d8e",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "79 ratings",
+                                  "ratingCountV2": "79"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "130010422",
+                              "name": "Kanda Poha With Sev",
+                              "category": "Breakfast Special",
+                              "imageId": "484f4cdf210a88f125858ec5ee718b4f",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Momos",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "81247077",
+                              "name": "Chicken Steam Momos ( 7 Pcs )",
+                              "category": "Momos",
+                              "description": "A mild spicy steamed dumpling with a chicken filling infused with spices in a traditional style served with chilli-tomato dip and mayonise.",
+                              "imageId": "2c6b26b3ada9fd2166824cdd7d72f577",
+                              "inStock": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "130 ratings",
+                                  "ratingCountV2": "130"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "81247427",
+                              "name": "Chicken Fried Momos ( 7 Pcs )",
+                              "category": "Momos",
+                              "description": "A mild spicy deep fried crispy dumpling with a chicken filling infused with spices in a traditional style served with chilli-tomato dip and mayonise.",
+                              "imageId": "19f1effd24440db4ba6588116c0f839e",
+                              "inStock": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "53 ratings",
+                                  "ratingCountV2": "53"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "81626542",
+                              "name": "Chicken Kurkure Momos ( 7 Pcs )",
+                              "category": "Momos",
+                              "description": "A mild spicy dumpling dipped in batter coated with corn flakes and chicken fillings infused with spices in a traditional style served with chilli-tomato dip and mayonise.",
+                              "imageId": "1a07517f1ffe35521eebf230f4cd1e7c",
+                              "inStock": 1,
+                              "price": 17500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "55 ratings",
+                                  "ratingCountV2": "55"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "81247080",
+                              "name": "Veg Steam Momos ( 7 Pcs )",
+                              "category": "Momos",
+                              "description": "A mild spicy steamed dumpling with a seasonal vegetable filling infused with spices in a traditional style served with chilli-tomato dip",
+                              "imageId": "e337855ab0f05b9ff281e001a0bcac6c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "89 ratings",
+                                  "ratingCountV2": "89"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "81247074",
+                              "name": "Veg Fried Momos ( 7 Pcs )",
+                              "category": "Momos",
+                              "description": "A mild spicy deep fried crispy dumpling with a grated paneer filling infused with spices in a traditional style served with chilli-tomato dip and mayonise.",
+                              "imageId": "572125e85a0cd9c4ea5c9085180094bb",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.3",
+                                  "ratingCount": "33 ratings",
+                                  "ratingCountV2": "33"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "81247483",
+                              "name": "Veg Kurkure Momos ( 7 Pcs )",
+                              "category": "Momos",
+                              "description": "A mild spicy  dumpling dipped in batter coated with corn flakes and seasonal vegetables fillings infused with spices in a traditional style served with chilli-tomato dip and mayonise.",
+                              "imageId": "1a07517f1ffe35521eebf230f4cd1e7c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.5",
+                                  "ratingCount": "63 ratings",
+                                  "ratingCountV2": "63"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "81247078",
+                              "name": "Paneer Steam Momos ( 7 Pcs )",
+                              "category": "Momos",
+                              "description": "A mild spicy steamed dumpling with a grated paneer filling infused with spices in a traditional style served with chilli-tomato dip",
+                              "imageId": "0b58bcb7169d6d05df129d7449133709",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.6",
+                                  "ratingCount": "28 ratings",
+                                  "ratingCountV2": "28"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "81247377",
+                              "name": "Paneer Fried Momos ( 7 Pcs )",
+                              "category": "Momos",
+                              "description": "A mild spicy deep fried crispy dumpling with a seasonal vegetables filling infused with spices in a traditional style served with chilli-tomato dip and mayonise.",
+                              "imageId": "19f1effd24440db4ba6588116c0f839e",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "8 ratings",
+                                  "ratingCountV2": "8"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "110147339",
+                              "name": "Paneer Kurkure Momos ( 7 Pcs )",
+                              "category": "Momos",
+                              "description": "A mild spicy  dumpling dipped in batter coated with corn flakes and grated paneer fillings infused with spices in a traditional style served with chilli-tomato dip and mayonise.",
+                              "imageId": "1a07517f1ffe35521eebf230f4cd1e7c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "11 ratings",
+                                  "ratingCountV2": "11"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121409524",
+                              "name": "Veg Pan Fried Momos ( 7 Pcs )",
+                              "category": "Momos",
+                              "imageId": "5fc7c59dc8485efb99b7d71c09a3ee9d",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121409525",
+                              "name": "Paneer Pan Fried Momos ( 7 Pcs )",
+                              "category": "Momos",
+                              "imageId": "5fc7c59dc8485efb99b7d71c09a3ee9d",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121409526",
+                              "name": "Chicken Pan Fried Momos ( 7 Pcs )",
+                              "category": "Momos",
+                              "imageId": "5fc7c59dc8485efb99b7d71c09a3ee9d",
+                              "inStock": 1,
+                              "price": 17500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Maggi",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410722",
+                              "name": "Veg Fried Maggi",
+                              "category": "Maggi",
+                              "description": "Half boiled maggi in turmeric water tossed with assorted vegetables serve crispy with chai",
+                              "imageId": "b476b36c7843d5c63593e094a97271d2",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "87 ratings",
+                                  "ratingCountV2": "87"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "103493571",
+                              "name": "Veg Cheese Fried Maggi",
+                              "category": "Maggi",
+                              "description": "Half boiled maggi in turmeric water tossed with assorted vegetables with added cheese serve crispy with chai",
+                              "imageId": "37ef061567b71e86daaf7f9a2376114e",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "17 ratings",
+                                  "ratingCountV2": "17"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "103493700",
+                              "name": "Corn Fried Maggi",
+                              "category": "Maggi",
+                              "description": "Half boiled maggi in turmeric water tossed with fresh sweet corn and assorted vegetables serve crispy with chai",
+                              "imageId": "657dc5c42e4450bd87561535df3bc9cd",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "109698171",
+                              "name": "Corn Cheese Fried Maggi",
+                              "category": "Maggi",
+                              "description": "Half boiled maggi in turmeric water tossed with fresh sweet corn and assorted vegetables with added cheese to it serve crispy with chai",
+                              "imageId": "f9a9bec2078145b77d8f19f4c7e7f40d",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.7",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "109698172",
+                              "name": "Paneer Fried Maggi",
+                              "category": "Maggi",
+                              "description": "Half boiled maggi in turmeric water tossed with fresh soft paneer cubes and assorted vegetables serve crispy with chai",
+                              "imageId": "71e456b7ff71369ba68a6a402684d0cf",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.0",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "109698228",
+                              "name": "Paneer Cheese Fried Maggi",
+                              "category": "Maggi",
+                              "description": "Half boiled maggi in turmeric water tossed with fresh soft paneer cubes and assorted vegetables with added cheese serve crispy with chai",
+                              "imageId": "ae700f2d6756af41edf2b013f0b860ae",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "109698295",
+                              "name": "Egg Cheese Fried Maggi",
+                              "category": "Maggi",
+                              "description": "Half boiled maggi in turmeric water tossed with fried egg bhurji & assorted vegetables with added cheese into it served crispy with chai",
+                              "imageId": "6aadd5f1ab1cad53bcfcbd6aee78e814",
+                              "inStock": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "EGG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.2",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410738",
+                              "name": "Chicken Fried Maggi",
+                              "category": "Maggi",
+                              "description": "Half boiled maggi in turmeric water tossed with fried chicken chunks & assorted vegetables served crispy with chai",
+                              "imageId": "dd28cb5e25aac960eb3cba02d8ae85ef",
+                              "inStock": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.4",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "109698293",
+                              "name": "Chicken Cheese Fried Maggi",
+                              "category": "Maggi",
+                              "description": "Half boiled maggi in turmeric water tossed with fried chicken chunks & assorted vegetables with added cheese to it served crispy with chai",
+                              "imageId": "6533f20fddac130b1fc3c4d4aab49038",
+                              "inStock": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.3",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410737",
+                              "name": "Chicken Egg Fried Maggi",
+                              "category": "Maggi",
+                              "description": "Half boiled maggi in turmeric water tossed with fried chicken chunks & assorted vegetables and fried egg bhurji served crispy with chai",
+                              "imageId": "ef49bbc401f8825d43b6374aed56252f",
+                              "inStock": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "44 ratings",
+                                  "ratingCountV2": "44"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "122877892",
+                              "name": "Korean Maggi",
+                              "category": "Maggi",
+                              "description": "Half boiled maggi tossed with fresh garlic chops, soya sauce and tomato sauce with chilli oil which is made with a blend of guntur chilli, giving it a unique and fiery heat and its topped with sesame seeds and spring onions for a touch of freshness and crunch.",
+                              "imageId": "e35174ea7fe3e0b9b251a991a98a8b61",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "31176116",
+                                    "name": "Spicy Level",
+                                    "variations": [
+                                      {
+                                        "name": "L1",
+                                        "default": 1,
+                                        "id": "96695905",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "L2",
+                                        "price": 1000,
+                                        "id": "96695906",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "L3",
+                                        "price": 1500,
+                                        "id": "96695907",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.4",
+                                  "ratingCount": "27 ratings",
+                                  "ratingCountV2": "27"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410733",
+                              "name": "Egg Fried Maggi",
+                              "category": "Maggi",
+                              "imageId": "bb5be55b60febda82b870e74827f5178",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.4",
+                                  "ratingCount": "33 ratings",
+                                  "ratingCountV2": "33"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Rolls",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410771",
+                              "name": "Egg Roll",
+                              "category": "Rolls",
+                              "description": "Double egg with green chillies layered with mayonnaise and dressed with inhouse sauces and onions wrapped in handmade classic lachha paratha.",
+                              "imageId": "66e9ac365825094d2749d6dd2bc4a9f8",
+                              "inStock": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "EGG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.3",
+                                  "ratingCount": "20 ratings",
+                                  "ratingCountV2": "20"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410770",
+                              "name": "Egg & Cheese Roll",
+                              "category": "Rolls",
+                              "description": "Double egg with green chillies layered with mayonnaise and dressed with inhouse sauces and onions wrapped in hand made classic lachha paratha with added cheese.",
+                              "imageId": "e0c0035984ff037557db4048c2647f73",
+                              "inStock": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "EGG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "7 ratings",
+                                  "ratingCountV2": "7"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410757",
+                              "name": "Tawa Chicken Roll",
+                              "category": "Rolls",
+                              "description": "Tender chicken breast cubes dressed with inhouse masala roasted on iron tawa, sprinkled with onion, showered with mayonnaise, rolled in handmade classic lachha paratha.",
+                              "imageId": "a59516708836933b40cb7246495f4137",
+                              "inStock": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410759",
+                              "name": "Chicken Tikka Roll",
+                              "category": "Rolls",
+                              "description": "Chicken tikka dressed with house made chutneys, sprinkled with onion, showered with mayonnaise, rolled in handmade classic lachha paratha.",
+                              "imageId": "a59516708836933b40cb7246495f4137",
+                              "inStock": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "16 ratings",
+                                  "ratingCountV2": "16"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410761",
+                              "name": "Chicken Kathi Roll",
+                              "category": "Rolls",
+                              "description": "Chicken breast dressed with house made chutneys, sprinkled with onion, showered with mayonnaise, rolled in handmade classic lachha paratha.",
+                              "imageId": "be574efef08f7cb7a69b0865f9b6c3ec",
+                              "inStock": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "33 ratings",
+                                  "ratingCountV2": "33"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410772",
+                              "name": "Egg And Chicken Roll",
+                              "category": "Rolls",
+                              "description": "Crispy chicken chunks dressed with house made masala and onion, showered with mayonnaise and egg wrapped rolled in handmade classic lachha paratha.",
+                              "imageId": "d07348f84cd4107321acf37cf3eec9d0",
+                              "inStock": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "19 ratings",
+                                  "ratingCountV2": "19"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410764",
+                              "name": "Spicy Chicken Roll",
+                              "category": "Rolls",
+                              "description": "Chicken breast cubes cooked with chillies in chinese sauce and dressed with onions, showered with mayonnaise, rolled in handmade classic lachha paratha.",
+                              "imageId": "06298021ad74b9ee6a51bfee19b5322e",
+                              "inStock": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.3",
+                                  "ratingCount": "8 ratings",
+                                  "ratingCountV2": "8"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410765",
+                              "name": "Paneer Roll",
+                              "category": "Rolls",
+                              "description": "Tender paneer tikka showered with mayonnaise, dressed with inhouse masala and onions rolled in handmade classic lachha paratha.",
+                              "imageId": "ec334a48ef667f53c78426b74363a766",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "16 ratings",
+                                  "ratingCountV2": "16"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410768",
+                              "name": "Paneer Spicy Roll",
+                              "category": "Rolls",
+                              "description": "Tender paneer cubes cooked with chillies in chinese sauce and dressed with onions, showered with mayonnaise, rolled in handmade classic lachha paratha.",
+                              "imageId": "380f13607f0530db440942dd429868b0",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.8",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410775",
+                              "name": "Aloo Tikki Roll",
+                              "category": "Rolls",
+                              "description": "Melt in mouth tikki made with potatoes, dressed with house made sauces and onion, showered with mayonnaise, rolled in handmade classic lachha paratha.",
+                              "imageId": "a1785af4d3c3043695a186b28be2d5bd",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "11 ratings",
+                                  "ratingCountV2": "11"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410776",
+                              "name": "Corn Cheese Roll",
+                              "category": "Rolls",
+                              "description": "Masala sweet corn showered with mayonnaise, dressed with in hose masala and onions layered with cheese rolled in handmade classic lachha paratha.",
+                              "imageId": "bc92ca778a03b8eaf2b4e7f9294c7f3e",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410767",
+                              "name": "Paneer Tikka Roll",
+                              "category": "Rolls",
+                              "description": "Paneer tikka dressed with house made chutneys, sprinkled with onion, showered with mayonnaise, rolled in handmade classic lachha paratha.",
+                              "imageId": "03fd21ad3946c959747899ae282bf7f9",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.3",
+                                  "ratingCount": "10 ratings",
+                                  "ratingCountV2": "10"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410773",
+                              "name": "Mix Veg Roll",
+                              "category": "Rolls",
+                              "imageId": "0ae36d71cbaa2cd1c4ebaec5335bdc44",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.6",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Chef's Special Roll",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "101182796",
+                              "name": "Chilli Chicken Roll",
+                              "category": "Chef's Special Roll",
+                              "description": "Chicken cubes cooked with chillies in chinese sauce & dressed with onions, showered with mayonnaise, rolled in handmade classic laccha paratha",
+                              "imageId": "ff3d961d64867c7348523b2be32d0158",
+                              "inStock": 1,
+                              "price": 22900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "1.4",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "101182795",
+                              "name": "Chilli Paneer Roll",
+                              "category": "Chef's Special Roll",
+                              "description": "Tender paneer cubes cooked with chillies in chinese sauce & dressed with onions, showered with mayonnaise, rolled in handmade classic laccha paratha",
+                              "imageId": "ff3d961d64867c7348523b2be32d0158",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 22900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105862068",
+                              "name": "Chilli Fish  Roll ",
+                              "category": "Chef's Special Roll",
+                              "description": "Basa fish cutlets cooked with chillies in chinese sauce & dressed with onions, showered with mayonnaise, rolled in handmade classic laccha paratha",
+                              "imageId": "be574efef08f7cb7a69b0865f9b6c3ec",
+                              "inStock": 1,
+                              "price": 22900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "120688605",
+                              "name": "Chilli Prawns Roll",
+                              "category": "Chef's Special Roll",
+                              "imageId": "fcdd1598588e8d3e2ea9ff80e6dac206",
+                              "inStock": 1,
+                              "price": 24900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Sandwiches",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410734",
+                              "name": "Cheese Corn Sandwich",
+                              "category": "Sandwiches",
+                              "description": "The fresh sweet corn and mayonnaise mixed and layered with cheese slice grilled in whole wheat bread.",
+                              "imageId": "efa2672e75f579ce5659ae90e4e533c9",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.7",
+                                  "ratingCount": "12 ratings",
+                                  "ratingCountV2": "12"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410736",
+                              "name": "Paneer Sandwich",
+                              "category": "Sandwiches",
+                              "description": "Soft and fresh paneer cubes marinated in indian spice yogurt grilled in whole wheat bread. Enjoy for breakfast or evening chai.",
+                              "imageId": "1d0a3114b914d4cf5a11889ddb1aa404",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410739",
+                              "name": "Paneer Cheese Sandwich",
+                              "category": "Sandwiches",
+                              "description": "Soft and fresh paneer cubes marinated in indian spice yogurt and layered with cheese slice grilled in whole wheat bread. Enjoy for breakfast or evening chai.",
+                              "imageId": "5fab40791015e09cd771afcfc05613e4",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.3",
+                                  "ratingCount": "8 ratings",
+                                  "ratingCountV2": "8"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410740",
+                              "name": "Chicken Sandwich",
+                              "category": "Sandwiches",
+                              "description": "Our exclusive indian style pan tossed chicken paired with mayonnaise and veggies grilled in whole wheat bread.",
+                              "imageId": "e58b0d47be51e600ee668904e5a98398",
+                              "inStock": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.2",
+                                  "ratingCount": "23 ratings",
+                                  "ratingCountV2": "23"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410742",
+                              "name": "Chicken Cheese Sandwich",
+                              "category": "Sandwiches",
+                              "description": "Our exclusive indian style pan tossed chicken paired with mayonnaise, veggies and layered with a slice of cheese grilled in whole wheat bread.",
+                              "imageId": "91b4d304463c6775017717c5f0b49693",
+                              "inStock": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "20 ratings",
+                                  "ratingCountV2": "20"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410744",
+                              "name": "Peanut Butter Chocolate",
+                              "category": "Sandwiches",
+                              "imageId": "2841f359a7b63ab29483ecf27951d369",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Starters",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410741",
+                              "name": "French Fries",
+                              "category": "Starters",
+                              "imageId": "d7ccef8557f3179e73306c108ca0114c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "44 ratings",
+                                  "ratingCountV2": "44"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106170337",
+                              "name": "Peri Peri French Fries ",
+                              "category": "Starters",
+                              "imageId": "1ddd412797fe3d7191f39f44274639fb",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.6",
+                                  "ratingCount": "16 ratings",
+                                  "ratingCountV2": "16"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410743",
+                              "name": "Potato Wedges",
+                              "category": "Starters",
+                              "imageId": "335d9cc9db2ac4725d9efeb278dd4c65",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106170342",
+                              "name": "Peri Peri Potato Wedges",
+                              "category": "Starters",
+                              "imageId": "01c56ae98083addce5764305e2d9ebcb",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.5",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410754",
+                              "name": "Paneer Chilli",
+                              "category": "Starters",
+                              "description": "Deeply fried fresh cottage paneer is coated with herbs and spices and prepared alongside capsicum made in wok.",
+                              "imageId": "4b3c7336ec5fcace319b577c5704288c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.8",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410756",
+                              "name": "Paneer Manchurian",
+                              "category": "Starters",
+                              "description": "Deep fried cottage paneer is tossed in flavourful manchurian sauce and prepared in wok.",
+                              "imageId": "69646acd072065166a9cdb8614fe772d",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "18 ratings",
+                                  "ratingCountV2": "18"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410758",
+                              "name": "Chicken Chilli",
+                              "category": "Starters",
+                              "description": "Deep fried chicken is dipped in batter coated with bers and spices and prepared alongside capsicum.",
+                              "imageId": "aa45c761ce0bc1b9f6f2b88f5dc48009",
+                              "inStock": 1,
+                              "price": 17500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.6",
+                                  "ratingCount": "41 ratings",
+                                  "ratingCountV2": "41"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410760",
+                              "name": "Chicken Manchurian",
+                              "category": "Starters",
+                              "description": "Deep fried chicken is tossed in flavourful manchurian sauce and prepared in wok.",
+                              "imageId": "f0a58df1db4cb431a3590d9145705a99",
+                              "inStock": 1,
+                              "price": 17500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.3",
+                                  "ratingCount": "17 ratings",
+                                  "ratingCountV2": "17"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121068024",
+                              "name": "Pepper Chicken",
+                              "category": "Starters",
+                              "imageId": "69646acd072065166a9cdb8614fe772d",
+                              "inStock": 1,
+                              "price": 17500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "76647951",
+                              "name": "Lemon Chicken",
+                              "category": "Starters",
+                              "description": "Deep fried chicken is dipped in batter coated with bers and spices and prepared alongside sliced lemons for a tangy taste.",
+                              "imageId": "fa1ff86e35325507724fb8ed8610041b",
+                              "inStock": 1,
+                              "price": 17500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.5",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "112733011",
+                              "name": "Prawns Chilli",
+                              "category": "Starters",
+                              "description": "Deeply fried prawns is coated with herbs and spices and prepared alongside capsicum made in wok.",
+                              "imageId": "4a9e7830ac03d417405d63fb7eca45f0",
+                              "inStock": 1,
+                              "price": 21900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Omelette",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410780",
+                              "name": "Plain Omelette",
+                              "category": "Omelette",
+                              "imageId": "b85d2cd373296cba0cbceef74fd20f25",
+                              "inStock": 1,
+                              "price": 8900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "EGG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "24 ratings",
+                                  "ratingCountV2": "24"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410782",
+                              "name": "Cheese Omelette",
+                              "category": "Omelette",
+                              "imageId": "71c2ad17b30efdd2933545fc51ebffe8",
+                              "inStock": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "EGG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.5",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410785",
+                              "name": "Chicken Omelette",
+                              "category": "Omelette",
+                              "imageId": "9ed0023ebc19f11dba6ff7de2c0b2398",
+                              "inStock": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410786",
+                              "name": "Chicken Cheese Omelette",
+                              "category": "Omelette",
+                              "imageId": "91ae083910b007f0ae7f3e88d6b866d1",
+                              "inStock": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410781",
+                              "name": "Bread Omelette",
+                              "category": "Omelette",
+                              "imageId": "5998fccad57771bd95b2da31d3e48307",
+                              "inStock": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "EGG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "54 ratings",
+                                  "ratingCountV2": "54"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106148961",
+                              "name": "Cheese Bread Omelette",
+                              "category": "Omelette",
+                              "imageId": "5998fccad57771bd95b2da31d3e48307",
+                              "inStock": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "EGG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "19 ratings",
+                                  "ratingCountV2": "19"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121386110",
+                              "name": "Hot Chocolate",
+                              "category": "Beverages",
+                              "imageId": "ee163e2bd2c541059f71e836900f310b",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410747",
+                              "name": "Iced Tea",
+                              "category": "Beverages",
+                              "imageId": "e3cecb8cc6446537082704679c5b2d15",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 10900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "8 ratings",
+                                  "ratingCountV2": "8"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410749",
+                              "name": "Blue Lagoon",
+                              "category": "Beverages",
+                              "imageId": "3578e52ae8d78d7eaa85d1398a3e88e7",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.3",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74410751",
+                              "name": "Cold Coffee",
+                              "category": "Beverages",
+                              "imageId": "c89f4f8b638f24fb9c6de90233bd1af9",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.2",
+                                  "ratingCount": "20 ratings",
+                                  "ratingCountV2": "20"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "99465792",
+                              "name": "Oreo Thickshake",
+                              "category": "Beverages",
+                              "imageId": "1d2a95d9be3bea9c9b8a5d73870e52bb",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.2",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Chinese [ Noodles & Fried Rice",
+                      "categories": [
+                        {
+                          "title": "Noodles",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "105862069",
+                                  "name": "Veg Noodles",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "a499b522462cae33f3da1026f74255c0",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 13900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.2",
+                                      "ratingCount": "24 ratings",
+                                      "ratingCountV2": "24"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "105862070",
+                                  "name": "Paneer Noodles",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "7ede6d9bccc8edfc35cdfa09ee58b3cc",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 14900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.9",
+                                      "ratingCount": "9 ratings",
+                                      "ratingCountV2": "9"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "105862086",
+                                  "name": "Double Egg Noodles",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "bb77ddf5646d4e435d69077870b3b060",
+                                  "inStock": 1,
+                                  "price": 16900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "EGG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.4",
+                                      "ratingCount": "10 ratings",
+                                      "ratingCountV2": "10"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "105862089",
+                                  "name": "Chicken Noodles",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "2510a071ac27ada965c4795e6269cb4a",
+                                  "inStock": 1,
+                                  "price": 16500,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.8",
+                                      "ratingCount": "50 ratings",
+                                      "ratingCountV2": "50"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "105862090",
+                                  "name": "Chicken Egg Noodles",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "bacd7f8ad774d373e05a048d6a8e6ae9",
+                                  "inStock": 1,
+                                  "price": 17500,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "2.9",
+                                      "ratingCount": "38 ratings",
+                                      "ratingCountV2": "38"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Fried Rice",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "109699037",
+                                  "name": "Veg Fried Rice",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "de226c95f37b00c1fc353f244330a31e",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 13900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.7",
+                                      "ratingCount": "4 ratings",
+                                      "ratingCountV2": "4"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "109699043",
+                                  "name": "Paneer Fried Rice",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "cfe32d9bef13f68bdb0c4577e84db5d9",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 14900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "109699045",
+                                  "name": "Double Egg Fried Rice",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "a19a4b99828101584b13993eb6ddcdca",
+                                  "inStock": 1,
+                                  "price": 16900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "EGG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "2.0",
+                                      "ratingCount": "8 ratings",
+                                      "ratingCountV2": "8"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "109699046",
+                                  "name": "Chicken Egg Fried Rice",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "b0d54513b5738cee44b005b25c07b8b9",
+                                  "inStock": 1,
+                                  "price": 17500,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.1",
+                                      "ratingCount": "13 ratings",
+                                      "ratingCountV2": "13"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "109699047",
+                                  "name": "Chicken Fried Rice",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "4e4b854877f30bc914bba5c47fa73261",
+                                  "inStock": 1,
+                                  "price": 16900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.0",
+                                      "ratingCount": "7 ratings",
+                                      "ratingCountV2": "7"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121409631",
+                                  "name": "Schezwan Veg Fried Rice",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "023af98e095eea16be17247a8549c42f",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 14900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121409632",
+                                  "name": "Schezwan Paneer Fried Rice",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "28205a85ae84f5a329d25f042618eddd",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 16900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121409634",
+                                  "name": "Schezwan Egg Fried Rice",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "3f2259660b7b56ad91d8369beb7ee610",
+                                  "inStock": 1,
+                                  "price": 14900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "EGG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121409633",
+                                  "name": "Schezwan Chicken Fried Rice",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "33c1a9262afe0a9182ef1a2187379f9e",
+                                  "inStock": 1,
+                                  "price": 16900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "2.8",
+                                      "ratingCount": "5 ratings",
+                                      "ratingCountV2": "5"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "121409635",
+                                  "name": "Schezwan Egg & Chicken Fried Rice",
+                                  "category": "Chinese [ Noodles & Fried Rice",
+                                  "imageId": "bcef770eb36498c76d348f13b86af3ba",
+                                  "inStock": 1,
+                                  "price": 17500,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.7",
+                                      "ratingCount": "5 ratings",
+                                      "ratingCountV2": "5"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Value Combos",
+                      "categories": [
+                        {
+                          "title": "Paratha Combo",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "127323718",
+                                  "name": "Chilli Chicken Paratha Combo",
+                                  "category": "Value Combos",
+                                  "description": "Chilli chicken with 2 laccha paratha.",
+                                  "inStock": 1,
+                                  "price": 25900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "127323720",
+                                  "name": "Chilli Paneer Paratha Combo",
+                                  "category": "Value Combos",
+                                  "description": "Chilli paneer with 2 laccha paratha.",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 25900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "130021754",
+                                  "name": "Chilli Fish Paratha Combo",
+                                  "category": "Value Combos",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 27900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "130022491",
+                                  "name": "Chilli Prawns Paratha Combo",
+                                  "category": "Value Combos",
+                                  "inStock": 1,
+                                  "price": 28900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": ["License No. 13621026000144"]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Teapical",
+                      "area": "Kondapur",
+                      "completeAddress": "Shop no-1-59/14/A,Ground Floor,Maseed Banda,Kondapur,Serilingampally Manda,, Kondapur, Sangareddy, Telangana-500084"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "72da654b-b9cc-4dc0-9e56-fecc4e469556",
+  "sid": "b4ra33da-83f9-4496-9fec-14bd2997bc4b",
+  "deviceId": "604afb33-a859-909f-8ff9-1fae9f7fc665",
+  "csrfToken": "GsRA8mpuSQkg-ryxgMXmH1DSvTngVU_HAypzoGpI"
+}
